@@ -1,8 +1,43 @@
-h1{
-    font-style: italic;
-    font-size: 40px;
+body{
+    background-color: #000000;
+
 }
 
+.titulo{
+    float: left;
+    
+    font-style: italic;
+    font-size: 34px;
+    color: #FFFFFF;
+    margin-left: 60px;
+}
+
+.fotoper{
+    width: 150px;
+    height: 150px;
+}
+
+img{
+    width: 1200px;
+    height: 350px;
+    margin-left: 155px;
+}
+
+ul{
+    color: #FFFFFF;
+    color: rgb(235, 11, 78);
+    
+}
+
+
 p{
-    font-size: 35px;
+    font-size: 22px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.pie{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(235, 11, 78);
+    text-align: center;
 }
